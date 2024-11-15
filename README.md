@@ -1,1 +1,1 @@
-# pagina-web-flash-card
+# Página web: desenvolvendo uma ferramenta interativa de estudos. (flashcard).
